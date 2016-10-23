@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CompensationSystem</string>
+
+    <string name="no_company">You are not representing any company</string>
+
+    <string name="error_login_not_authorized"> Invalid username or password!</string>
+</resources>
